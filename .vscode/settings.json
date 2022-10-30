@@ -1,0 +1,4 @@
+{
+    "editor.wordWrap": "bounded",
+    "html.format.wrapLineLength": 80
+}
