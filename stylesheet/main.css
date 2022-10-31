@@ -71,10 +71,18 @@ ul{
     padding-left: 20px;
 }
 
+.form-container{
+    border: 1px #000;
+    border-style: solid;
+    padding: 20px;
+}
+
 button{
     background-color: rgb(217, 255, 244) ;
+    padding: 10px;
 }
 
 footer{
-    margin: 20px;
+    padding: 30px;
+    text-align: right;
 }
