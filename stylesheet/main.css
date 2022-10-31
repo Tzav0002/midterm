@@ -4,6 +4,8 @@ body{
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
+
+    /* the margins help create space around the body allowing for the document to be more centred on the screen */
 }
 
 .body{
